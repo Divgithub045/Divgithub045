@@ -44,5 +44,5 @@
 - [GitHub](https://github.com/divgithub045)  
 - [LinkedIn](https://linkedin.com/in/divyanshsinghnrj)  
 - [LeetCode](https://leetcode.com/u/Div_lc/)
-- [Portfolio](divyanshsingh.xyz)
+- [Portfolio](https://divyanshsingh.xyz)
   
